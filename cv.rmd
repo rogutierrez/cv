@@ -82,7 +82,7 @@ Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 Hecho con el paquete de R [**pagedown**](https://github.com/rstudio/pagedown). 
 
-Código disponible en [github.com/nstrayer/cv](https://github.com/nstrayer/cv).
+Código disponible en [github.com/rogutierrez/cv](https://github.com/rogutierrez/cv).
 
 
 
