@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591311875164.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2420232879",
+    "id" : "96783234",
+    "lastKnownWriteTime" : 1591328738,
+    "last_content_update" : 1591328738231,
+    "path" : "C:/Users/gutie/Desktop/RGCV/cv.rmd",
+    "project_path" : "cv.rmd",
+    "properties" : {
+        "cursorPosition" : "84,22",
+        "scrollLine" : "81"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
