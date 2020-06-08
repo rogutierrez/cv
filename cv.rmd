@@ -108,7 +108,7 @@ CV %<>% print_section('education')
 
 <br>
 
-Antecedentes Laborales {data-icon=laptop}
+Antecedentes Laborales {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -118,7 +118,7 @@ CV %<>% print_section('ant_laborales')
 <br>
 
 
-Ayudantías Universitarias {data-icon=suitcase}
+Ayudantías Universitarias {data-icon=university}
 --------------------------------------------------------------------------------
 
 ```{r}
@@ -129,7 +129,7 @@ CV %<>% print_section('ayud_uni')
 <br>
 
 
-Otros Antecedentes {data-icon=chalkboard-teacher}
+Otros Antecedentes {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ```{r}
